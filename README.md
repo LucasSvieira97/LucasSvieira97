@@ -1,6 +1,7 @@
 # Olá, eu sou Lucas Vieira 👋
 
-Analista de Dados em formação, apaixonado por transformar dados em decisões.
+Profissional de Customer Success em transição para Análise de Dados.
+4+ anos de experiência em CS/CX, atualmente no bootcamp TripleTen.
 
 ## 🛠️ Ferramentas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
